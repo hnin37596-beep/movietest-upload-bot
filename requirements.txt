@@ -1,0 +1,6 @@
+python-telegram-bot>=22,<23
+aiohttp>=3.10
+beautifulsoup4>=4.12
+telethon>=1.43,<2
+cryptg
+boto3>=1.35
